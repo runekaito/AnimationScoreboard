@@ -6,7 +6,7 @@ We've recreated spigot's lunachat!!
 ### Options
 - enable
 - disable
-- list
+- list  
 ## Select (Support Placeholders)
 - player
 - server
