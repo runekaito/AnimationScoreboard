@@ -1,12 +1,12 @@
 # AnimationScoreboard
 We've recreated spigot's lunachat!!
 ## Commands
-- sb reload....Scoreboard reload
-- papi <Option> <Select>
-### Options
-- enable
-- disable
-- list  
+- sb reload....Scoreboard reload  
+- papi <Option> <Select>  
+### Options  
+- enable  
+- disable  
+- list    
 ## Select (Support Placeholders)
 - player
 - server
