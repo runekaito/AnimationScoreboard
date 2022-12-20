@@ -5,11 +5,11 @@ We've recreated spigot's lunachat!!
 - papi <Option> <Select>  
 ### Options  
 - enable  
-- disable  
-- list    
-## Select (Support Placeholders)
-- player
-- server
-- attribute
+- disable   
+- list  
+## Select (Support Placeholders)  
+- player  
+- server  
+- attribute  
 ## The Originator
 [Spigot Lunachat](https://www.spigotmc.org/resources/lunachat.82293/)
