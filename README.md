@@ -2,7 +2,7 @@
 We've recreated spigot's lunachat!!
 ## Commands
 - sb reload....Scoreboard reload  
-- papi <Option> <Select>
+- papi Option Select
 ### Options
 - enable
 - disable 
