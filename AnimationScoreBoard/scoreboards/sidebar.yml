@@ -1,0 +1,48 @@
+display:
+  title:
+    text:
+      - "§lA"
+      - "§lAn"
+      - "§lAni"
+      - "§lAnim"
+      - "§lAnima"
+      - "§lAnimat"
+      - "§lAnimate"
+      - "§lAnimated"
+      - "§lAnimated "
+      - "§lAnimated S"
+      - "§lAnimated Sc"
+      - "§lAnimated Sco"
+      - "§lAnimated Scor"
+      - "§lAnimated Score"
+      - "§lAnimated Scoreb"
+      - "§lAnimated Scorebo"
+      - "§lAnimated Scoreboa"
+      - "§lAnimated Scoreboar"
+      - "§lAnimated Scoreboard"
+      - "§c§lAnimated Scoreboard"
+      - "§lAnimated Scoreboard"
+      - "§c§lAnimated Scoreboard"
+      - "§lAnimated Scoreboard"
+      - "§c§lAnimated Scoreboard"
+      - "§lAnimated Scoreboard"
+    random: false
+    interval: 10
+  line-1:
+    text:
+      - "§a§lWelcome %player_name%"
+      - "§b§lWelcome %player_name%"
+      - "§c§lWelcome %player_name%"
+    random: false
+    interval: 5
+    score: 98
+  line-2:
+    text:
+      - "   %player_item_in_hand_name%"
+    random: false
+    interval: 0
+  line-3:
+    text:
+      - "  §l§bPosition §cX:§f%player_x% §cY:§f%player_y% §cZ:§f%player_z%"
+    random: false
+    interval: 0

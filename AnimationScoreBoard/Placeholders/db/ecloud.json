@@ -1,0 +1,16 @@
+{
+  "masterData": [
+    {
+      "name": "player",
+      "enabled": true
+    },
+    {
+      "name": "server",
+      "enabled": true
+    },
+    {
+      "name": "attribute",
+      "enabled": true
+    }
+  ]
+}
