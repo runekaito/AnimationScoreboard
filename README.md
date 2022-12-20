@@ -2,10 +2,10 @@
 We've recreated spigot's lunachat!!
 ## Commands
 - sb reload....Scoreboard reload  
-- papi <Option> <Select>  
+- papi <Option> <Select>
 ### Options
-- enable  
-- disable   
+- enable
+- disable 
 - list  
 ## Select (Support Placeholders)
 - player  
