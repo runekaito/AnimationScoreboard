@@ -35,7 +35,6 @@ display:
       - "§c§lWelcome %player_name%"
     random: false
     interval: 5
-    score: 98
   line-2:
     text:
       - "   %player_item_in_hand_name%"
