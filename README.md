@@ -1,8 +1,8 @@
 # AnimationScoreboard
 We've recreated spigot's lunachat!!
 ## Commands
-- sb reload
-- papi Option Select
+- /sb reload
+- /papi Option Select
 ### Options
 - enable
 - disable 
