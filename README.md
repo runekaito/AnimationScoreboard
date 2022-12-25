@@ -14,4 +14,4 @@ We've recreated spigot's lunachat!!
 ## The Originator
 [Spigot Lunachat](https://www.spigotmc.org/resources/lunachat.82293/)
 ## Cooperative Worker
-[RED-TNT](https://github.com/RedTNT-Official/BetterChat/commits?author=RedTNT-Official)
+[RED-TNT](https://github.com/RedTNT-Official)
